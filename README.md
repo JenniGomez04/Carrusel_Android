@@ -9,8 +9,8 @@ Al hacer clic sobre una imagen, se muestra una **pantalla de detalle** con su t�
 * Carrusel horizontal con desplazamiento tipo “slide”.
 * Imágenes locales mostradas con `HorizontalPager`.  
 * Pantalla de detalle con título, descripción y botón “Atrás”.  
-* Interfaz moderna con `Material3` y Compose.  
-* Arquitectura limpia y separada en paquetes (`model` Modelo de datos de cada imagen , `screen` Pantalla principal (carrusel + detalle)).  
+* Interfaz con `Material3` y Compose.  
+* Arquitectura separada en paquetes (`model` Modelo de datos de cada imagen , `screen` Pantalla principal (carrusel + detalle)).  
 
 
 ## Estructura del proyecto
