@@ -17,3 +17,11 @@ Al hacer clic sobre una imagen, se muestra una **pantalla de detalle** con su t√
 
 <img width="608" height="363" alt="image" src="https://github.com/user-attachments/assets/ef06d74a-0aa5-4be1-9a09-f987be560487" />
 
+
+## Evidencia de lo realizado
+
+<img width="371" height="694" alt="image" src="https://github.com/user-attachments/assets/2e9fba92-1103-478c-b689-66e3ab01cc4d" />
+<img width="371" height="694" alt="image" src="https://github.com/user-attachments/assets/ab15379a-400c-4486-9c30-813f1dcfec6a" />
+
+
+
