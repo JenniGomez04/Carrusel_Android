@@ -15,14 +15,5 @@ Al hacer clic sobre una imagen, se muestra una **pantalla de detalle** con su t�
 
 ## Estructura del proyecto
 
-com.example.carruselandroid/
-│
-├── model/
-│ └── ImageItem.kt → Modelo de datos de cada imagen
-│
-├── screen/
-│ └── ImageCarrusel.kt → Pantalla principal (carrusel + detalle)
-│
-├── ui/theme/ → Estilos generados por Compose (colores, tipografía)
-│
-└── MainActivity.kt → Punto de entrada que carga el carrusel
+<img width="608" height="363" alt="image" src="https://github.com/user-attachments/assets/ef06d74a-0aa5-4be1-9a09-f987be560487" />
+
